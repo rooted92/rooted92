@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rooted92
 - 👀 I’m interested in learning how to code for crypto technologies and would also like to learn security.
-- 🌱 I’m currently learning HTML/CSS (I am completely green).
+- 🌱 I’m currently learning HTML/CSS.
 - 💞️ I’m looking to collaborate on any project I can participate in.
 - 📫 You can reach me through github.
 
