@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rooted92
-- 👀 I’m interested in learning how to code for crypto technologies and would also like to learn security.
-- 🌱 I’m currently learning HTML/CSS.
+- 👀 I’m interested in learning web3 technologies and frontend development.
+- 🌱 I'm currently a student at Codestack Academy where I have worked on over 20 projects using HTML, CSS, Bootstrap, Javascript, Typescript and React.
 - 💞️ I’m looking to collaborate on any project I can participate in.
-- 📫 You can reach me through github.
+- 📫 You can reach me through GitHub and <a href="https://www.linkedin.com/in/pedro-castaneda-developer/" target="_blank">LinkedIn</a>
 
 <!---
 rooted92/rooted92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
