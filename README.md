@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rooted92
-- 👀 I’m interested in learning web3 technologies and frontend development.
-- 🌱 I'm currently a student at Codestack Academy where I have worked on over 20 projects using HTML, CSS, Bootstrap, Javascript, Typescript and React.
-- 💞️ I’m looking to collaborate on any project I can participate in.
+- 👀 I’m interested in learning web3 technologies, end-to-end website development, and collaborating with people on projects that can help humanity.
+- 🌱 I'm currently a web developer performing freelance work for local businesses in my community.
+- 💞️ I’m looking to be a part of something big, where my work can make a difference, from making websites accessible to improving functionality, to designing scalable software. No matter how big or small I just want to code.
 - 📫 You can reach me through GitHub, <a href="https://www.linkedin.com/in/pedro-castaneda-developer/" target="_blank">LinkedIn</a>, or email me at: pedro@pedroc.dev.
 - :globe_with_meridians: Visit <a href="https://pedroc.dev/" target="_blank">my website</a>
 
